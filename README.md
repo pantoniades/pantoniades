@@ -21,4 +21,4 @@ MySQL internals (InnoDB, binlog, GTID, group replication), safe database access 
 
 ## Elsewhere
 
-Blog: [worldgonemad.com](https://worldgonemad.com), "My blog"
+Blog: [worldgonemad.com](https://worldgonemad.com)
